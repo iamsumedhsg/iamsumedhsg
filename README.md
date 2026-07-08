@@ -1,8 +1,11 @@
-<h1 align="left">
-Hi 👋 I'm Sumedh Singh Gautam
-</h1>
+<table>
+<tr>
 
-<h3 align="left">
+<td width="70%" valign="top">
+
+<h1>Hi 👋 I'm Sumedh Singh Gautam</h1>
+
+<h3>
 Computer Science Student • AI Developer • Data Science Enthusiast
 </h3>
 
@@ -10,32 +13,22 @@ Computer Science Student • AI Developer • Data Science Enthusiast
 Building AI products one commit at a time.
 </p>
 
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=58A6FF&width=700&lines=Computer+Science+Student;AI+Developer;Data+Science+Enthusiast;Open+Source+Contributor;Linux+Enjoyer"/>
-</p>
+<br>
 
-<table>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=58A6FF&width=550&lines=AI+Developer;Machine+Learning+Enthusiast;Data+Science+Explorer;Open+Source+Contributor;Linux+Enjoyer">
 
-<tr>
+</td>
 
-<td width="65%">
+<td width="30%" align="right" valign="top">
 
-## 👾 Pac-Man Contribution Graph
+<img src="./assets/pikachu.gif" width="260">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/iamsumedhsg/iamsumedhsg/output/pacman-contribution-graph-dark.svg">
+</td>
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/iamsumedhsg/iamsumedhsg/output/pacman-contribution-graph.svg">
+</tr>
+</table>
 
-  <img
-    alt="Pac-Man Contribution Graph"
-    src="https://raw.githubusercontent.com/iamsumedhsg/iamsumedhsg/output/pacman-contribution-graph.svg">
-</picture>
-
+---
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE @ VIT-AP
@@ -45,63 +38,107 @@ Building AI products one commit at a time.
 - 🐧 Linux Enthusiast
 - 🚀 Exploring Agentic AI & MCP
 
-</td>
-
-<td width="100%">
-
-<img src="assets/pikachu.gif" width="300"/>
-
-</td>
-
-</tr>
-
-</table>
+---
 
 ## 💻 Tech Stack
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,react,nodejs,express,mongodb,mysql,git,linux,docker,vscode"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,react,nodejs,express,mongodb,mysql,git,linux,docker,vscode&theme=dark"/>
 </p>
+
+---
 
 ## 🌐 Connect
 
-<p>
+<p align="center">
+<a href="https://www.linkedin.com/in/sumedh-singh-gautam/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/></a>
+<a href="mailto:sumedhsinghg@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="https://x.com/SumedhSGautam" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<a href="https://discord.com/users/791216906467540992" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
+</p>
 
-<a href="https://https://www.linkedin.com/in/sumedh-singh-gautam/">
+---
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<p align="center">
 
-</a>
+<picture>
 
-<a href="mailto:sumedhsinghg@gmail.com">
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/iamsumedhsg/iamsumedhsg/output/pacman-contribution-graph-dark.svg">
 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/iamsumedhsg/iamsumedhsg/output/pacman-contribution-graph-light.svg">
 
-</a>
+<img
+src="https://raw.githubusercontent.com/iamsumedhsg/iamsumedhsg/output/pacman-contribution-graph-dark.svg">
+
+</picture>
 
 </p>
+
+---
 
 ## 🌱 Current Focus
 
-- 🤖 Building LLM Arena
-- 📊 Data Science Projects
-- 🚀 Agentic AI
-- 🌍 Open Source
+- 🤖 Building **LLM Arena**
+- 📊 End-to-End Data Science Projects
+- 🚀 Learning Agentic AI
+- 🌍 Open Source Contributions
 - 💻 Competitive Programming
+
+---
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamsumedhsg&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=iamsumedhsg&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsumedhsg&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsumedhsg&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
-## 📈 Activity Graph
+<p align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=iamsumedhsg&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamsumedhsg&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## ⭐ Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamsumedhsg&repo=LLM-Arena&theme=github_dark)](https://github.com/iamsumedhsg/LLM-Arena)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamsumedhsg&repo=Profile-Inspector&theme=github_dark)](https://github.com/iamsumedhsg/Profile-Inspector)
+
+---
+
+<p align="center">
+
+### 💭 Philosophy
+
+```cpp
+while(alive)
+{
+    learn();
+    build();
+    improve();
+}
+```
+
+⭐ Thanks for visiting!
+
+</p>
 
