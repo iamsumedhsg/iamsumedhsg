@@ -119,9 +119,9 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=iamsumedhsg&theme=gi
 
 ## ⭐ Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamsumedhsg&repo=LLM-Arena&theme=github_dark)](https://github.com/iamsumedhsg/LLM-Arena)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamsumedhsg&repo=LLM-Arena&theme=github_dark)](https://github.com/iamsumedhsg/TypeRumble)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamsumedhsg&repo=Profile-Inspector&theme=github_dark)](https://github.com/iamsumedhsg/Profile-Inspector)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamsumedhsg&repo=Profile-Inspector&theme=github_dark)](https://github.com/iamsumedhsg/Chatot-the-chatbot)
 
 ---
 
