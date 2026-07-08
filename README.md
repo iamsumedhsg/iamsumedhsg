@@ -90,17 +90,7 @@ src="https://raw.githubusercontent.com/iamsumedhsg/iamsumedhsg/output/pacman-con
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=iamsumedhsg&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsumedhsg&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+## 📊 GitHub Streak
 
 <p align="center">
 
@@ -114,31 +104,4 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=iamsumedhsg&theme=gi
 ## 📈 Contribution Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamsumedhsg&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## ⭐ Featured Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamsumedhsg&repo=LLM-Arena&theme=github_dark)](https://github.com/iamsumedhsg/TypeRumble)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamsumedhsg&repo=Profile-Inspector&theme=github_dark)](https://github.com/iamsumedhsg/Chatot-the-chatbot)
-
----
-
-<p align="center">
-
-### 💭 Philosophy
-
-```cpp
-while(alive)
-{
-    learn();
-    build();
-    improve();
-}
-```
-
-⭐ Thanks for visiting!
-
-</p>
 
