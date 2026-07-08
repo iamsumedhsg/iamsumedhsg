@@ -52,7 +52,7 @@ Building AI products one commit at a time.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sumedh-singh-gautam/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/></a>
-<a href="mailto:sumedhsinghg@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sumedhsinghg@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 <a href="https://x.com/SumedhSGautam" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
 <a href="https://discord.com/users/791216906467540992" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
